@@ -1,4 +1,4 @@
-# vue-3-boilerplate
+# vue-3-componenets
 
 This template should help get you started developing with Vue 3 in Vite.
 
